@@ -4,7 +4,7 @@
 <div>
   <a href="https://github.com/davicarmo10">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davicarmo10&show_icons=true&theme=dark&include_all_commits=ture&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davicarmo10&çayout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davicarmo10&çayout=compact&langs_count=25&theme=dark"/>
 </div>
 
 ## Contact
